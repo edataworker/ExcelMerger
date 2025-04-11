@@ -22,4 +22,4 @@ Excel Merger is free, valued at $10. If it saves you time, please consider a $5â
 - [Donate via PayPal](https://paypal.me/edataworker?country.x=IN&locale.x=en_GB)
 
 ## Feedback
-Love it? Have ideas? Email [edataworker@outlook.com] or comment on the release page!
+Love it? Have ideas? Email (edataworker@outlook.com) or comment on the release page!
