@@ -9,8 +9,8 @@ A free, Python-powered tool to simplify Excel file management for data professio
 
 ## Download
 Get Excel Merger v1.0 and the user guide:
-- [Excel Merger v1.0](https://github.com/YourUsername/ExcelMerger/releases/tag/v1.0)
-- [User Guide PDF](https://github.com/YourUsername/ExcelMerger/releases/download/v1.0/ExcelMerger_UserGuide_v1.0.pdf)
+- [Excel Merger v1.0](https://github.com/edataworker/ExcelMerger/releases/tag/v1.0)
+- [User Guide PDF](https://github.com/edataworker/ExcelMerger/releases/download/v1.0/ExcelMerger_UserGuide_v1.0.pdf)
 
 ## How to Use
 1. Download the app and PDF from the release page.
